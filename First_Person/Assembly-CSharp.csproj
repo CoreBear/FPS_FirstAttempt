@@ -81,7 +81,7 @@
     <Compile Include="Assets\Scripts\Utilities\Spawning\Spawn.cs" />
     <Compile Include="Assets\Scripts\Utilities\Spawning\SpawnManager.cs" />
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/corym/Desktop/Unity Projects/First_Person/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/corym/Desktop/FPS_FirstAttempt/First_Person/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

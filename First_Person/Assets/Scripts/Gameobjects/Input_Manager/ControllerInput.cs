@@ -55,14 +55,14 @@ public class ControllerInput
     public void RunControllerGame()
     {
         // Which controller to run
-        RunControllerGame360();
-        //RunPS4ControllerGame();
+        //RunControllerGame360();
+        RunControllerGamePS4();
     }
     public void RunControllerPaused()
     {
         // Which controller to run
-        RunControllerPaused360();
-        //RunPS4ControllerPaused();
+        //RunControllerPaused360();
+        RunControllerPausedPS4();
     }
     #endregion
 
